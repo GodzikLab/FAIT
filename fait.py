@@ -345,7 +345,7 @@ if __name__ == '__main__':
     parser.add_argument('-f', action='store',type=str,  help='The ffas matrix file')
     parser.add_argument('-q', action='store',type=str,  help='The query sequence in fasta format')
     parser.add_argument('-p', action='store_true',  help='Plot aperiodicity')
-    parser.add_argument('--positionReference', action='store',type=str,  help='PDB ID of profile reference')
+    parser.add_argument('--positionReference', action='store',type=str,  help='PDB ID of profile reference (use 2OMZ in the beginning)')
     parser.add_argument('--pdb', action='store',type=str,  help='PDB')
     parser.add_argument('--chain', action='store',type=str,  help='Chain') 
     parser.add_argument('--plotFolder', action='store',type=str,  help='Folder for plots')
