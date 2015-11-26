@@ -8,14 +8,18 @@ You will have to install the following packages:<br/>
 	<li>Biopython <a href="http://biopython.org" target="blank">link</a></li>
 	<li>Numpy <a href="http://www.numpy.org" target="blank">link</a></li>
 	<li>Scipy <a href="http://www.scipy.org" target="blank">link</a></li>
-	<li>Matplotlib <a href="http://matplotlib.org/" target="blank">link</a></li></ul>
+	<li>Matplotlib <a href="http://matplotlib.org/" target="blank">link</a></li>
+</ul>
 
 
 <h2>Installation</h2>
 Clone / download this repositoy. You will also have to download FFAS from <a href="http://ffas.sanfordburnham.org/ffas-cgi/cgi/download.pl?ses=&rv=&lv=" taget="blank">here</a> and follow the respective installation procedure.
 
 <h2>Running FAIT</h2>
-
+<ol>
+	<li>Run FFAS to generate the profile-profile scoring matrix by running <code>ffasMatrix.sh reference.fasta query.fasta pathToOutputMatrix pathToOutputAlignment</code></li>
+	<li>Run FAIT to process the profile-profile scoring matrix by <code></code> </li>
+</ol>
 
 
 <h2>Usage</h2>
