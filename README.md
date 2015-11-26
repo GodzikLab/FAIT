@@ -22,5 +22,5 @@ Clone / download this repositoy. You will also have to download FFAS from <a hre
 	<li>Run FAIT to process the profile-profile scoring matrix by <code>fait.py -f pathToOutputMatrix -q query.fasta </code> </li>
 </ol>
 
-
-<h2>Usage</h2>
+<!-- 
+<h2>Usage</h2> -->
