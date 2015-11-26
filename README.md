@@ -4,13 +4,11 @@
 <h2>Requirements</h2>
 You will have to install the following packages:<br/>
 <ul>
-	<li>Python <a href="www.python.org">link</a></li>
-	<li>Biopython <a href="http://biopython.org">link</a></li>
-	<li>Numpy <a href="http://www.numpy.org">link</a></li>
-	<li>Scipy <a href="http://www.scipy.org">link</a></li>
-	<li>Matplotlib <a href="http://matplotlib.org/">link</a></li>
-	<li>Matplotlib <a href="http://matplotlib.org/">link</a></li>
-</ul>
+	<li>Python <a href="www.python.org" target="blank">link</a></li>
+	<li>Biopython <a href="http://biopython.org" target="blank">link</a></li>
+	<li>Numpy <a href="http://www.numpy.org" target="blank">link</a></li>
+	<li>Scipy <a href="http://www.scipy.org" target="blank">link</a></li>
+	<li>Matplotlib <a href="http://matplotlib.org/" target="blank">link</a></li></ul>
 
 
 <h2>Installation</h2>
