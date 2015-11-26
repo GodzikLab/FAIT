@@ -14,4 +14,8 @@ You will have to install the following packages:<br/>
 <h2>Installation</h2>
 Clone / download this repositoy. You will also have to download FFAS from <a href="http://ffas.sanfordburnham.org/ffas-cgi/cgi/download.pl?ses=&rv=&lv=" taget="blank">here</a> and follow the respective installation procedure.
 
+<h2>Running FAIT</h2>
+
+
+
 <h2>Usage</h2>
